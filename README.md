@@ -12,11 +12,13 @@ Project 1:
 
 Project 2:
 
-  Description: 
+  Description: Implements components for parsing lisp expressions. It includes a custom data type "thing" for lisp values, a
+  lexical scanner that reads lisp expressions from a file, tokenizes them, and handles commments, and a parser module that 
+  conversts tokens into a "thing".
 
-  Run and Compile: 
+  Run and Compile: Run and compile testsP2.ml
 
-  My Contributions:
+  My Contributions: parser.ml
 
 Project 3:
 
