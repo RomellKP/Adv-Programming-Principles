@@ -22,8 +22,11 @@ Project 2:
 
 Project 3:
 
-  Description: 
+  Description: This project is a list interpreter that supports arithmetic operations, list processing, closures, and user-defined
+  functions. The scanner converts code strings into a list of tokens, symbols and numbers. The parser translates tokens into an 
+  abstract syntax tree. The evaluator recursively evaluates expressions. The printer converts internal data structures into readable
+  lisp syntax
 
-  Run and Compile: 
+  Run and Compile: Run and compile labject123.ml
 
-  My Contributions:
+  My Contributions: labject123.ml
