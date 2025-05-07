@@ -1,5 +1,7 @@
 # Projects for Advanced Programming Principles:
 
+---
+
 ## Project 1:
 
   ### Description: 
